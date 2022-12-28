@@ -9,7 +9,7 @@ public class Main {
     }
 
     static void play() {
-        System.out.println(">>>>>>>>> Jocul Spanzuratoarea <<<<<<<<<<<<");
+        System.out.println(">>>>>>>>> Welcome to HangMan! <<<<<<<<<<<<");
 
         ArrayList<String> words = new ArrayList<>(
                 Arrays.asList("language", "paint", "tire", "hot", "plane", "plane", "test", "system", "object"
